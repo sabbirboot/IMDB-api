@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: imdb-api
-    env: node
-    build:
-      - npm install
-    start: npm start
-    plan: free
