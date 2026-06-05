@@ -1,0 +1,8 @@
+{
+  "name": "IMDB-api",
+  "description": "Unofficial IMDb API",
+  "repository": "https://github.com/sabbirboot/IMDB-api",
+  "env": {
+    "NODE_VERSION": "18"
+  }
+}
